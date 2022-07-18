@@ -15,4 +15,6 @@ print(lista5)
 
 print(type(lista5))
 
-print(lista5[::])
+print(lista5[1:])
+print(lista5[2:])
+print(lista5[:3])
